@@ -1,0 +1,1 @@
+docker run --rm -it -v "%cd%/src:/src" -w /src cakebuild/cake:2.1-sdk Cake
